@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-
-        System.out.println("Изменения в новой ветке.");
+        byte nw = 2;
+        System.out.println("Изменения " + nw + " в новой ветке.");
     }
 }
